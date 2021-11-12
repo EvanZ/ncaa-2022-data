@@ -37,7 +37,7 @@ file: players_yyyy-mm-dd.json (added at beginning of season)
   "season": 2022
 }
 
-### Plays
+### Daily Feed
 file: pbp_yyyy-mm-dd.json (new files added daily)
 
 #### Lines - summary of an individual player in a single game
